@@ -1,7 +1,11 @@
 aid: yrc-worldwide
-url: https://raw.githubusercontent.com/api-evangelist/yrc-worldwide/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/yrc-worldwide/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.yrc-worldwide.com
+description: >-
+  YRC Worldwide (now Yellow Corporation) was a holding company that, through its subsidiaries,
+  offered freight transportation services in North America before declaring bankruptcy.
