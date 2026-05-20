@@ -14,6 +14,8 @@ description: >-
   carriers; no public developer APIs were ever published.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/yrc-worldwide-inc
   - type: Website
     url: https://www.myyellow.com
   - type: Documentation
