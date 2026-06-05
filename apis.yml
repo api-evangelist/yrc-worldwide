@@ -1,4 +1,6 @@
 aid: yrc-worldwide
+tags:
+  - Fortune 500
 url:
   https://raw.githubusercontent.com/api-evangelist/yrc-worldwide/refs/heads/main/apis.yml
 modified: '2026-05-03'
