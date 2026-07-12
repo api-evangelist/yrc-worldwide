@@ -16,6 +16,8 @@ description: >-
   carriers; no public developer APIs were ever published.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/yrc-worldwide-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/yrc-worldwide-inc
   - type: Website
