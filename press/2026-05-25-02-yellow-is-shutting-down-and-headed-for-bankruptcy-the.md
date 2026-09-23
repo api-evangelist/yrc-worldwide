@@ -1,7 +1,9 @@
 ---
 title: Yellow is shutting down and headed for bankruptcy, the ...
 url: https://fox5sandiego.com/news/business/ap-business/ap-yellow-is-shutting-down-and-headed-for-bankruptcy-the-teamsters-union-says-heres-what-to-know/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"YRC Worldwide" press release artificial intelligence'
 position: 2
 source: serpapi-google

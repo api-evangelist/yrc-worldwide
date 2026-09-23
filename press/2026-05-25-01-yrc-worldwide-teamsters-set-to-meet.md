@@ -1,7 +1,9 @@
 ---
 title: YRC Worldwide, Teamsters Set to Meet
 url: https://www.truckinginfo.com/news/yrc-worlwide-and-teamsters-set-to-meet
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"YRC Worldwide" press release artificial intelligence'
 position: 1
 source: serpapi-google
