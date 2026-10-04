@@ -25,6 +25,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/yrc-worldwide.png
 tags:
   - Fortune 500
+  - Defunct
 url:
   https://raw.githubusercontent.com/api-evangelist/yrc-worldwide/refs/heads/main/apis.yml
 modified: '2026-05-03'
@@ -38,6 +39,7 @@ description: >-
   2023, ending nearly 100 years of operation. Bankruptcy asset sales
   redistributed terminals and equipment to Saia, XPO, Estes, and other
   carriers; no public developer APIs were ever published.
+x-status: defunct
 apis: []
 common:
   - type: DomainSecurity
